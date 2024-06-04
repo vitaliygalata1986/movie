@@ -1,0 +1,12 @@
+.footer-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  padding: 0px;
+  line-height: 65px;
+  text-align: center;
+  color: white;
+  background-color: tomato;
+  margin-top: 20px;
+  /* flex: 2; */
+}

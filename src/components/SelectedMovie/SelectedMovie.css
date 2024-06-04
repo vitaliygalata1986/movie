@@ -1,0 +1,51 @@
+.box-img-plot {
+  display: flex;
+  justify-content: space-between;
+}
+
+.selectedMovie-plot {
+  margin: 10px;
+  font-size: 22px;
+}
+
+.selectedMovie-ul {
+  margin: 5px;
+  padding: 0;
+  font-weight: 900;
+  list-style-type: none;
+}
+
+.selectedMovie-year {
+  margin: 5px;
+  font-weight: 900;
+  list-style-type: none;
+}
+
+.selectedMovie-title {
+  margin: 5px;
+  font-weight: 900;
+  list-style-type: none;
+}
+
+.selectedMovie-type {
+  margin: 5px;
+  font-weight: 900;
+  list-style-type: none;
+}
+
+.selectedMovie-wrap-img-s1 {
+  border: 2px solid gray;
+  border-radius: 15px;
+  width: 500px;
+  height: 400px;
+}
+
+.selected-img-s1 {
+  width: 100%;
+  height: 100%;
+}
+
+.selectedMovie-line {
+  border: 1px solid red;
+  margin: 10px;
+}

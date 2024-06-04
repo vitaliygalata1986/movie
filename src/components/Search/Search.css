@@ -1,0 +1,42 @@
+.main-wrapper {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  /* width: 1400px; */
+  /* flex: 1 1 auto; */
+}
+
+.main-input {
+  /* max-width: 100%; */
+  width: 100%;
+  margin: 10px 0px;
+  height: 45px;
+  border: none;
+  border-radius: 5px;
+  border-bottom: 1px solid gray;
+}
+
+.main-btn {
+  position: absolute;
+  cursor: pointer;
+  top: 14px;
+  right: 10px;
+  width: 85px;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 7px;
+  background-color: rgb(154, 246, 154);
+}
+
+.col {
+  display: flex;
+  margin: 20px 0px;
+}
+
+.filters-radio {
+  color: red;
+}
+
+.with-gap {
+  margin-left: 25px;
+}
