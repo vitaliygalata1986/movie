@@ -1,5 +1,6 @@
 {
   "name": "testmovie",
+  "homepage": "https://alexazaryan.github.io/testMovies/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
